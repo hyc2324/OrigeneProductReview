@@ -1,4 +1,4 @@
-**demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
+Based on **demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
 # To start
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
